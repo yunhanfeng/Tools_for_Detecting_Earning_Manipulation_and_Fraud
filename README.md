@@ -5,7 +5,7 @@ This is the project from UMN MSBA summer term, Financial Accounting course. Thro
 
 We use the dataset from Compustat to develop our model and analyses. 
 
-In the project, the logic of my analyses is below:
+In the project, the logic of my analyses is below:  
 A. Cleaning and slicing the data  
 B. Simple exploratory data analysis  
 C. Indirect evidence of earning management  
